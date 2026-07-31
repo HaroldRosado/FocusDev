@@ -1,0 +1,14 @@
+{
+  "name": "focusdev",
+  "version": "1.0.0",
+  "description": "Aplicación de enfoque para desarrolladores",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "HARVDEV",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^39.0.0"
+  }
+}
