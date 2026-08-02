@@ -1,8 +1,9 @@
 {
   "name": "focusdev",
   "version": "1.0.0",
+  "type": "module",
   "description": "Aplicación de enfoque para desarrolladores",
-  "main": "main.js",
+  "main": "main.cjs",
   "scripts": {
     "start": "electron ."
   },
